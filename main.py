@@ -1,1 +1,3 @@
-from src.Prediction_Wine_Quality.config import configuration
+from Prediction_Wine_Quality import logger
+
+logger.info("Sekar")
