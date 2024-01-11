@@ -1,0 +1,1 @@
+from src.Prediction_Wine_Quality.config import configuration
